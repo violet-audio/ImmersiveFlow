@@ -6,7 +6,7 @@ Two formats are provided:
   - Requires 7.1.4 loudspeaker setup.  
 
 - **Binaural Audio**  
-  - Binauralized using the Kemar HRTFs.  
+  - Binauralized using the KEMAR HRTFs.  
   - Can be listened to using headphones.
 
 Code is coming soon！
