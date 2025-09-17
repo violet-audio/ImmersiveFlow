@@ -1,7 +1,5 @@
 # ImmersiveFlow Samples
 
-This repository provides audio samples for **ImmersiveFlow**
-
 Two formats are provided:
 
 - **7.1.4 Format**  
@@ -10,3 +8,5 @@ Two formats are provided:
 - **Binaural Audio**  
   - Binauralized using the Kemar HRTFs.  
   - Can be listened to using headphones.
+
+Code is coming soon！
